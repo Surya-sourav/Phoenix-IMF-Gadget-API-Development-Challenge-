@@ -15,7 +15,7 @@ The API is deployed and accessible at:
 ## 📚 API Documentation
 
 Comprehensive API documentation is available at:
-[https://your-swagger-documentation-url.com]([https://your-swagger-documentation-url.com](https://documenter.getpostman.com/view/43199485/2sB2cUAN9x))
+[https://your-swagger-documentation-url.com](https://documenter.getpostman.com/view/43199485/2sB2cUAN9x)
 
 ## 🔧 Technologies Used
 
