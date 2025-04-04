@@ -15,7 +15,7 @@ The API is deployed and accessible at:
 ## 📚 API Documentation
 
 Comprehensive API documentation is available at:
-[https://your-swagger-documentation-url.com](https://your-swagger-documentation-url.com)
+[https://your-swagger-documentation-url.com]([https://your-swagger-documentation-url.com](https://documenter.getpostman.com/view/43199485/2sB2cUAN9x))
 
 ## 🔧 Technologies Used
 
@@ -25,7 +25,7 @@ Comprehensive API documentation is available at:
 - **Authentication**: JWT (JSON Web Tokens)
 - **Validation**: Express Validator
 - **Security**: Helmet, CORS
-- **Deployment**: [Your Deployment Platform]
+- **Deployment**: [Render]
 
 ## ✨ Features
 
@@ -45,15 +45,12 @@ src/
 ├── controllers/       # Request handlers
 │   ├── auth.controller.ts
 │   └── gadget.controller.ts
-
 ├── middleware/        # Custom middleware
 │   ├── auth.middleware.ts
 │   └── validate.middleware.ts
-
 ├── routes/            # API routes
 │   ├── auth.routes.ts
 │   └── gadget.routes.ts
-
 ├── utils/             # Utility functions
 │   ├── error.handler.ts
 │   └── prisma.client.ts
@@ -194,9 +191,9 @@ curl -X POST https://your-api-url.com/api/gadgets/GADGET_ID/self-destruct \
 
   ## 👨‍💻 Author
 
-Your Name : Surya Sourav Parida 
+Your Name :[Surya Sourav Parida](https://www.linkedin.com/in/suryaparida/) 
 
-This README was last updated on [Current Date].
+This README was last updated on [04/04/25].
 
 *This message will self-destruct in 5 seconds... Just kidding!*
 
