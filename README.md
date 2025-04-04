@@ -10,7 +10,7 @@ Built with TypeScript, Node.js, Express, and PostgreSQL with Prisma ORM, this AP
 ## 🚀 Live Demo
 
 The API is deployed and accessible at:
-[Try the Phoenix IMF Agent Now !](https://phoenix-imf-gadget-api-development-2i7r.onrender.com/)
+[Try the Phoenix IMF Agent Now !](https://phoenix-imf-gadget-api-development-2i7r.onrender.com/health)
 
 ## 📚 API Documentation
 
